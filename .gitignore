@@ -2,4 +2,4 @@
 venv/
 
 # ignore .env file in the notebook folder
-/notebooks/.env
+notebooks/.env
